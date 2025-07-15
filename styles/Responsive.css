@@ -65,6 +65,10 @@
         font-size: 2.4rem;
         padding: 10px 20px;
     }
+
+    .carrossel-container {
+        gap: 20px;
+    }
 }
 
 @media(max-width: 645px) {
