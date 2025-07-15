@@ -294,7 +294,8 @@ body {
 }
 
 #titulo-digitado {
-  white-space: nowrap;
+  white-space: normal;
+  /* overflow-wrap: break-word; */
   overflow: hidden;
   border-right: 2px solid #FFC0CB;
 }
