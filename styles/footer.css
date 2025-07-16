@@ -66,6 +66,7 @@ hr {
   font-family: "Poppins", sans-serif;
   font-weight: 600;
   color: #FFC0CB;
+  pointer-events: none;
 }
 
 .coluna ul {
