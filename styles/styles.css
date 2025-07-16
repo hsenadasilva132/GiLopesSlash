@@ -1,8 +1,16 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
     margin: 0;
     padding: 0;
     color: #FFC0CB;
     background-color: #000;
+}
+
+section {
+  scroll-margin-top: 80px;
 }
 
 
