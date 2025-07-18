@@ -69,10 +69,22 @@
     .carrossel-container {
         gap: 20px;
     }
-
+/* 
     .secao-dupla {
-        padding: 5px;
+        padding: 40px 20px;
+        height: auto;
+
+    .lado-esquerdo p {
+        font-size: 1.6rem;
+        text-align: center;
     }
+
+    .botoes a {
+        display: block;
+        margin: 20px auto 0;
+        font-size: 0.95rem;
+        padding: 10px 20px;
+    } */
 }
 
 @media(max-width: 645px) {
@@ -96,6 +108,10 @@
 @media(max-width: 768px) {
     .div-h1 {
         font-size: 2rem;
+    }
+
+    .ul-servicos span {
+        font-size: 1.1rem;
     }
 }
 
